@@ -22,3 +22,5 @@ docker inspect ttt | grep IPAddress
 
 Run VS Code, create project from repo root (`.vscode` dir should reside in the root). Add breakpoints to `main.py`
 and observe magic when run debugger!!!
+
+![Expected magic](https://raw.githubusercontent.com/vindex10/ptvsd-spawner/master/doc/proof.png)
